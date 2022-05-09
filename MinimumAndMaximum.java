@@ -31,3 +31,4 @@ public class MinimumAndMaximum {
         System.out.println("Maximum Element is:"+ " "+max);
     }
 }
+//This code is Contributed by Vivek Kumar Gupta
